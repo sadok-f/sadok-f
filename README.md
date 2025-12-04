@@ -1,5 +1,3 @@
-# Hi, I'm Sadok Ferjani
-
 ## Software Engineer | DevOps Specialist | Automation Enthusiast
 
 With over 15 years of experience in software engineering and a strong focus on DevOps, Cloud Infrastructure, Kubernetes, and Automation, I build scalable, production ready systems and tools that make engineering teams move faster and with confidence.
