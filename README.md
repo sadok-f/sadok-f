@@ -6,28 +6,13 @@ With over 15 years of experience in software engineering and a strong focus on D
 
 I’m passionate about AI-driven automation, incident management tooling, infrastructure as code, and cloud native platforms.
 
-## What I Do
-DevOps & Infrastructure
-
-Kubernetes on bare-metal, vSphere, and cloud (GKE, EKS)
-
-Terraform, Ansible, Helm, GitLab CI/CD
-
-Observability stacks: Prometheus, Grafana, Loki, Alerting
-
-HAProxy, Kafka (KRaft), RabbitMQ clusters
-
-Building automation pipelines and self-service developer platforms
-
 ## Tech Stack
 
 Languages: Go · Python · Bash · PHP · JavaScript/Node.js
 
 Cloud: GCP · AWS · vSphere
 
-DevOps: Kubernetes · Helm · Terraform · Ansible · GitLab CI · Docker
-
-Messaging: RabbitMQ · Kafka
+DevOps: Kubernetes · Helm · Terraform · Ansible · GitLab CI · Github Action · Docker
 
 Monitoring: Prometheus · Grafana · Loki
 
