@@ -6,16 +6,10 @@ I’m passionate about AI-driven automation, incident management tooling, infras
 
 ## Tech Stack
 
-Languages: Go · Python · Bash · PHP · JavaScript/Node.js
-
-Cloud: GCP · AWS · vSphere
-
-DevOps: Kubernetes · Helm · Terraform · Ansible · GitLab CI · Github Action · Docker
-
-Monitoring: Prometheus · Grafana · Loki
-
-AI: OpenAI, Gemini, Copilot APIs
-
+**Languages**: Go · Python · Bash · PHP · JavaScript/Node.js <br/>
+**Cloud**: GCP · AWS · vSphere <br/>
+**DevOps**: Kubernetes · Helm · Terraform · Ansible · GitLab CI · Github Action · Docker · Grafana <br/>
+**AI**: OpenAI, Gemini, Copilot APIs
 
 ## Featured Project:
 
