@@ -1,8 +1,8 @@
 ## Software Engineer | DevOps Specialist | Automation Enthusiast
 
-With over 15 years of experience in software engineering and a strong focus on DevOps, Cloud Infrastructure, Kubernetes, and Automation, I build scalable, production ready systems and tools that make engineering teams move faster and with confidence.
+With over 15 years of experience in software engineering and a strong focus on DevOps, Cloud Infrastructure, Kubernetes, and Automation, I build scalable, production-ready systems and tools that make engineering teams move faster and with confidence.
 
-I’m passionate about AI-driven automation, incident management tooling, infrastructure as code, and cloud native platforms.
+I’m passionate about AI-driven automation, incident management tooling, infrastructure-as-code, and cloud-native platforms.
 
 ## Tech Stack
 
@@ -17,14 +17,15 @@ Monitoring: Prometheus · Grafana · Loki
 AI: OpenAI, Gemini, Copilot APIs
 
 
-## Featured Projects
+## Featured Project:
 
-🔹 [Flyimg](https://github.com/flyimg/flyimg)
-
-An on-the-fly image resizing service.
+<a href="https://github.com/flyimg/flyimg" target="_blank">
+    <img alt="Flyimg" src="https://raw.githubusercontent.com/flyimg/graphic-assets/main/logo/raster/flyimg-logo-rgb.png" width="300">
+</a>
 
 ## Get in Touch
+<a href="https://www.linkedin.com/in/sadokferjani/" target="_blank">
+    <img alt="Flyimg" src="https://raw.githubusercontent.com/sadok-f/sadok-f/refs/heads/master/LI-Logo.png" width="200">
+</a>
 
-GitHub: You're already here!
-
-LinkedIn: [https://www.linkedin.com/in/sadokferjani/](https://www.linkedin.com/in/sadokferjani/)
+![Sadok Ferjani](https://raw.githubusercontent.com/sadok-f/sadok-f/refs/heads/master/bottom_header.svg)
