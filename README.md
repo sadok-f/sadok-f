@@ -14,7 +14,7 @@ I’m passionate about AI-driven automation, incident management tooling, infras
 ## Featured Project:
 
 <a href="https://github.com/flyimg/flyimg" target="_blank">
-    <img alt="Flyimg" src="https://raw.githubusercontent.com/flyimg/graphic-assets/main/logo/raster/flyimg-logo-rgb.png" width="300">
+    <img alt="Flyimg" src="https://raw.githubusercontent.com/flyimg/flyimg/main/web/flyimg.png" width="300">
 </a>
 
 ## Get in Touch
